@@ -10,17 +10,18 @@ This script allows you to download all the posts from an Instagram account using
 ## Usage
 
 1. Clone the repository:
-
 ```
-git clone https://github.com/your-username/instagram-posts-downloader.git
-
+git clone https://github.com/akaawase-bernard/instagram-posts-downloader.git
+```
 Change to the project directory:
+
 ```
 cd instagram-posts-downloader
-
+```
 Run the script:
 ```
 python download_posts.py
+```
 Enter the Instagram username when prompted.
 
 The script will download all the posts from the specified Instagram account and save them in a folder named after the account username.
